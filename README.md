@@ -43,11 +43,13 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ravini-kuruppu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravini%20Kuruppu%20-blue?style=flat-square&logo=linkedin"></a>
-<img alt="Email" src="https://img.shields.io/badge/Email-ravinikuruppu@gmail.com-blue?style=flat-square&logo=gmail">
+<a href="mailto:ravinikuruppu@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ravinikuruppu@gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
 <a href="https://medium.com/@ravinikuruppu">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-@ravinikuruppu-black?style=flat-square&logo=medium">
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://ravinikuruppu.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View%20Here-orange?style=flat-square&logo=internet-explorer">
   </a>
 </p>
